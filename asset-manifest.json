@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Shachar297/shachar/static/css/main.7fbc1cb1.chunk.css",
+    "main.js": "/Shachar297/shachar/static/js/main.f7c8186c.chunk.js",
+    "main.js.map": "/Shachar297/shachar/static/js/main.f7c8186c.chunk.js.map",
+    "runtime-main.js": "/Shachar297/shachar/static/js/runtime-main.51bf55ae.js",
+    "runtime-main.js.map": "/Shachar297/shachar/static/js/runtime-main.51bf55ae.js.map",
+    "static/js/2.6bd7c65c.chunk.js": "/Shachar297/shachar/static/js/2.6bd7c65c.chunk.js",
+    "static/js/2.6bd7c65c.chunk.js.map": "/Shachar297/shachar/static/js/2.6bd7c65c.chunk.js.map",
+    "static/js/3.286198db.chunk.js": "/Shachar297/shachar/static/js/3.286198db.chunk.js",
+    "static/js/3.286198db.chunk.js.map": "/Shachar297/shachar/static/js/3.286198db.chunk.js.map",
+    "index.html": "/Shachar297/shachar/index.html",
+    "static/css/main.7fbc1cb1.chunk.css.map": "/Shachar297/shachar/static/css/main.7fbc1cb1.chunk.css.map",
+    "static/js/2.6bd7c65c.chunk.js.LICENSE.txt": "/Shachar297/shachar/static/js/2.6bd7c65c.chunk.js.LICENSE.txt",
+    "static/media/Arrows_down_animated.381b2eb8.gif": "/Shachar297/shachar/static/media/Arrows_down_animated.381b2eb8.gif",
+    "static/media/Calculator.7665a748.png": "/Shachar297/shachar/static/media/Calculator.7665a748.png",
+    "static/media/coins-project.4d58dab7.png": "/Shachar297/shachar/static/media/coins-project.4d58dab7.png",
+    "static/media/notes-project.f149a106.png": "/Shachar297/shachar/static/media/notes-project.f149a106.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51bf55ae.js",
+    "static/js/2.6bd7c65c.chunk.js",
+    "static/css/main.7fbc1cb1.chunk.css",
+    "static/js/main.f7c8186c.chunk.js"
+  ]
+}
